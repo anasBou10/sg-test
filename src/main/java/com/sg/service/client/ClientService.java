@@ -1,4 +1,4 @@
-package com.sg.domain.services.client;
+package com.sg.service.client;
 
 import com.sg.domain.client.Client;
 

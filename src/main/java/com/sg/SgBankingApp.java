@@ -1,9 +1,9 @@
 package com.sg;
 
 import com.sg.domain.client.Client;
-import com.sg.domain.services.account.AccountServiceImpl;
-import com.sg.domain.services.client.ClientServiceImpl;
-import com.sg.domain.services.statement.ConsoleStatementPrinter;
+import com.sg.service.account.AccountServiceImpl;
+import com.sg.service.client.ClientServiceImpl;
+import com.sg.service.statement.ConsoleStatementPrinter;
 
 import java.math.BigDecimal;
 

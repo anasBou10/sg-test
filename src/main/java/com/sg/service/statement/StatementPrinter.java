@@ -1,4 +1,4 @@
-package com.sg.domain.services.statement;
+package com.sg.service.statement;
 
 import com.sg.domain.account.Account;
 

@@ -1,4 +1,4 @@
-package com.sg.domain.services.transaction;
+package com.sg.service.transaction;
 
 import com.sg.domain.transaction.Transaction;
 import com.sg.domain.transaction.TransactionStatus;

@@ -1,7 +1,7 @@
-package com.sg.domain.services.client;
+package com.sg.service.client;
 
 import com.sg.domain.client.Client;
-import com.sg.domain.services.account.AccountServiceImpl;
+import com.sg.service.account.AccountServiceImpl;
 
 import java.time.Instant;
 import java.util.UUID;

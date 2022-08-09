@@ -1,4 +1,4 @@
-package com.sg.domain.services.account;
+package com.sg.service.account;
 
 import com.sg.domain.account.Account;
 import com.sg.domain.transaction.Transaction;

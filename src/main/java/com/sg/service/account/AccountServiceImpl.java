@@ -1,4 +1,4 @@
-package com.sg.domain.services.account;
+package com.sg.service.account;
 
 import com.sg.domain.account.Account;
 import com.sg.domain.transaction.Transaction;
@@ -6,7 +6,7 @@ import com.sg.domain.transaction.TransactionStatus;
 import com.sg.domain.transaction.TransactionType;
 import com.sg.exception.InsufficientBalanceException;
 import com.sg.exception.InvalidAmountException;
-import com.sg.domain.services.transaction.TransactionServiceImpl;
+import com.sg.service.transaction.TransactionServiceImpl;
 
 import java.math.BigDecimal;
 import java.time.Instant;
