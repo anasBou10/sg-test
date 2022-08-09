@@ -22,6 +22,9 @@ public class SgBankingApp {
         accountService.withdraw(client.getAccount(),BigDecimal.valueOf(500));
         accountService.deposit(client.getAccount(),BigDecimal.valueOf(600));
 
+        //accountService.withdraw(client.getAccount(),BigDecimal.valueOf(0));
+        //accountService.withdraw(client.getAccount(),BigDecimal.valueOf(1000025));
+
         statementPrinter.print(client.getAccount());
 
         System.out.println(client.getAccount());
